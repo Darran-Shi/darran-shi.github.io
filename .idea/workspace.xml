@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="acb68f77-daf9-422c-82a6-373393282373" name="Default" comment="for skh">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/index2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +34,9 @@
     <option name="height" value="900" />
   </component>
   <component name="ProjectId" id="2HxLMwiqOhI0jhqevRQiyio9KEN" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -72,6 +73,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "WebServerToolWindowFactoryState": "false"
   }
 }]]></component>
@@ -84,7 +86,7 @@
       <option name="presentableId" value="Default" />
       <updated>1518594152200</updated>
       <workItem from="1518594153536" duration="883000" />
-      <workItem from="1669221759694" duration="4626000" />
+      <workItem from="1669221759694" duration="5573000" />
     </task>
     <task id="LOCAL-00001" summary="for skh">
       <created>1669224747912</created>
@@ -100,7 +102,21 @@
       <option name="project" value="LOCAL" />
       <updated>1669225003967</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="for skh">
+      <created>1669226474133</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1669226474133</updated>
+    </task>
+    <task id="LOCAL-00004" summary="for skh">
+      <created>1669226513691</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1669226513691</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -143,6 +159,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="for skh" />
     <option name="LAST_COMMIT_MESSAGE" value="for skh" />
   </component>
