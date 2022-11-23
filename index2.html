@@ -406,7 +406,7 @@
         myAudio.loop = false;//禁止循环，否则无法触发ended事件
         function playEndedHandler() {
             index++;
-            myAudio.src = arr[index % 5];
+            myAudio.src = arr[index % 4];
             setTimeout(function () {
                 myAudio.play();
             }, 8000);
